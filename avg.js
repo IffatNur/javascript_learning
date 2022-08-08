@@ -4,7 +4,7 @@ var bio = 96;
 var bang = 76;
 
 var average = (math + eng + bio + bang)/4;
-console.log(average.toFixed(1));
+console.log(average.toFixed(1)); //toFixed
 
 function avg(a, b, c){
     var average = (a +b +c)/3;

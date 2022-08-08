@@ -120,3 +120,4 @@ function toCelsius(fahrenheit){
 var fahrenheit = toCelsius(34);
 
 console.log(fahrenheit.toFixed(2), 'C');
+
